@@ -1,0 +1,2 @@
+# LazyFuncLib
+Lazy functional library
